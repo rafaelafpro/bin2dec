@@ -44,7 +44,7 @@
 
 # :runner: Utilização
 
-**Caso não possua, instale o live-server: **
+**Caso não possua, instale o live-server:**
 
 ```npm install live-server```
 
