@@ -3,17 +3,15 @@
    <img src="https://i.imgur.com/ZBsIy3Sl.png" width="300"/>
 </p>
 
-
 # Bin2Dec - Conversor de Binários
-npm
-
-
-
-
-[![Author](https://img.shields.io/badge/author-RafaelAndrade-D54F44?style=flat-square)](https://github.com/rafaelafpro) 
+[![Author](https://img.shields.io/badge/author-RafaelAndrade-D54F44?style=flat-square)](https://github.com/rafaelafpro)
 
 
 > Aplicação que converte números em base binária para base decimal.
+
+<p align="center">
+   <a href="https://rafaelafpro.github.io/bin2dec/"> <img src="https://i.imgur.com/EGERZFl.png" width="200"/></a>
+</p>
 
 <br />
 <p align="center"><img src="https://i.imgur.com/qCUSXxa.gif"/></p>
@@ -23,6 +21,7 @@ npm
 
 # :pushpin: Índice
 
+* [Demonstração](href="https://rafaelafpro.github.io/bin2dec/)
 * [Features](#rocket-features)
 * [Instalação](#construction_worker-instalação)
 * [Utilização](#runner-utilização)
@@ -45,11 +44,11 @@ npm
 
 # :runner: Utilização
 
-**Caso não possua, instale o live-server **
+**Caso não possua, instale o live-server: **
 
 ```npm install live-server```
 
-**Execute o live-server para abrir a aplicação no navegador**
+**Execute o live-server para abrir a aplicação no navegador:**
 
 ```live-server```
 
