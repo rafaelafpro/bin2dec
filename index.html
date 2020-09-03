@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Bin2Dec - Conversor de Base Binária para Base Decimal</title>
+</head>
+<body>
+    <header>
+        <div class="title container">
+            <h1>Bin2Dec</h1>
+            <p>Conversor Binário <span>></span> Decimal<p>
+        </div>
+    </header>
+    <div class="card container">
+        <div class="field">
+            <div>Valor Binário</div>
+            <input placeholder="Digite um número em base binária" id="bin" type="text" onKeyPress="if(this.value.length==8) return false" onKeyUp="checkNumber(this.value)">
+        </div>        
+        <div class="field">
+            <div>Valor Decimal</div>
+            <input placeholder="Resultado em decimal" id="dec" type="text" >
+        </div>
+    </div>
+
+    <footer>
+        <div class="credits">
+            <p>Feito com <span>❤</span> por <a href="https://github.com/rafaelafpro/">Rafael Andrade</a> | Código: <a href="https://github.com/rafaelafpro/bin2dec">Github</a></p>
+        </div>
+    </footer>
+
+    <script src="/script.js"></script>
+</body>
+</html>
