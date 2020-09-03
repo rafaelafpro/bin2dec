@@ -3,14 +3,14 @@
    <img src="https://i.imgur.com/ZBsIy3Sl.png" width="300"/>
 </p>
 
+
 # Bin2Dec - Conversor de Binários
+npm
 
 
 
 
-
-[![Author](https://img.shields.io/badge/author-RafaelAndrade-D54F44?style=flat-square)](https://github.com/rafaelafpro)
-[![Languages](https://img.shields.io/github/languages/count/rafaelafpro/bin2dec?color=%23D54F44&style=flat-square)](#)
+[![Author](https://img.shields.io/badge/author-RafaelAndrade-D54F44?style=flat-square)](https://github.com/rafaelafpro) 
 
 
 > Aplicação que converte números em base binária para base decimal.
