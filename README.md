@@ -21,7 +21,7 @@
 
 # :pushpin: Índice
 
-* [Demonstração](href="https://rafaelafpro.github.io/bin2dec/)
+* [Demonstração](https://rafaelafpro.github.io/bin2dec/)
 * [Features](#rocket-features)
 * [Instalação](#construction_worker-instalação)
 * [Utilização](#runner-utilização)
